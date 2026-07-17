@@ -80,53 +80,6 @@ I achieved these results by implementing a server-driven frontend system where b
 
 ---
 
-## Experience
-
-### Frontend Developer · Al Almiya Al Hura
-
-`May 2025 — Present`
-
-- Build scalable React and Next.js products for commerce, recruitment, classified ads, inspections, and internal operations.
-- Develop schema-driven forms and data tables with reusable CRUD, filtering, modal, validation, and permission patterns.
-- Integrate frontend features with backend APIs while covering loading, empty, success, error, and mutation states.
-- Work with TanStack Router, Query, and Table; Redux Toolkit; RTK Query; Zustand; Zod; shadcn/ui; and TypeScript.
-
----
-
-## Selected work
-
-### [989 — Multi-vendor commerce](https://amr-zain-portfolio.vercel.app/work/989)
-
-An Arabic-first marketplace connecting category discovery, product browsing, wishlists, cart state, vendor operations, and order journeys through reusable commerce modules and predictable API-connected state.
-
-`Next.js` `TypeScript` `Redux Toolkit` `RTK Query` `Tailwind CSS`
-
-### [Ruknadem — Recruitment operations](https://amr-zain-portfolio.vercel.app/work/ruknadem)
-
-A bilingual public platform and operational dashboard for worker rental, recruitment, contract transfer, period management, renewals, and long-running workflows with clear state and next actions.
-
-`Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui`
-
-### [Server-driven Dashboards](https://amr-zain-portfolio.vercel.app/work/server-driven-dashboards)
-
-A shared frontend platform where backend definitions configure fields, validation, columns, filters, permissions, and actions—allowing new administration modules to be assembled instead of hard-coded.
-
-`React` `TanStack Router` `TanStack Query` `TanStack Table` `Zod` `Zustand`
-
-### [Zayed Plus — Classified marketplace](https://amr-zain-portfolio.vercel.app/work/zayed-plus)
-
-An Arabic marketplace spanning category-led discovery, structured ad publishing, seller contact, saved listings, account workflows, promotion packages, and premium placement.
-
-`Next.js` `TypeScript` `Tailwind CSS`
-
-<p align="center">
-  <a href="https://amr-zain-portfolio.vercel.app/#work">
-    <img src="https://img.shields.io/badge/Explore_the_full_case_studies-A78BFA?style=for-the-badge&logo=vercel&logoColor=111111" alt="Explore Amr Zain's full portfolio case studies" />
-  </a>
-</p>
-
----
-
 ## This portfolio
 
 The [portfolio](https://amr-zain-portfolio.vercel.app) is itself a focused frontend case study. It combines an editorial monochrome interface with deliberate motion, real project imagery, accessible interaction states, and server-backed contact handling.
@@ -209,8 +162,7 @@ pnpm build
 ## Education
 
 **Bachelor's Degree in Computer Science**<br />
-Faculty of Computers and Information Sciences, Mansoura University · 2019–2023<br />
-Grade: **84% — Very Good**
+Faculty of Computers and Information Sciences, Mansoura University · 2019–2023
 
 ---
 
@@ -218,8 +170,7 @@ Grade: **84% — Very Good**
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amr-Zain&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=8B949E&icon_color=A78BFA" alt="Amr Zain's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Zain&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=8B949E" alt="Amr Zain's most used GitHub languages" />
+
 
 <img src="https://streak-stats.demolab.com?user=Amr-Zain&hide_border=true&background=00000000&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=8B949E&dates=8B949E" alt="Amr Zain's GitHub contribution streak" />
 
