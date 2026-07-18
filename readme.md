@@ -4,17 +4,6 @@
 
 <h3>Frontend Engineer building production-grade React and Next.js products</h3>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=600&size=21&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Frontend+Engineer+%7C+React+%26+Next.js;Server-driven+interfaces+for+data-heavy+products;Commerce%2C+operations%2C+and+platform+architecture" alt="Typing SVG introducing Amr Zain's frontend engineering focus" />
-</a>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Amr-Zain&label=Profile%20views&color=7c3aed&style=flat-square" alt="Amr Zain profile views" />
-  <a href="https://github.com/Amr-Zain?tab=followers">
-    <img src="https://img.shields.io/github/followers/Amr-Zain?label=Followers&style=flat-square&color=7c3aed" alt="Amr Zain GitHub followers" />
-  </a>
-</p>
-
 <p>
   <a href="https://amr-zain-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Amr Zain's portfolio" />
